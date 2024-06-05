@@ -1,0 +1,9 @@
+#include "martini_v2.3_CNP.itp"
+#include "martini_v2.0_solvents.itp"
+
+[ system ]
+test case 1
+
+[ molecules ]
+OCT            4
+
